@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Neto 👋
 
-<!--
-**aka1Neto/aka1Neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Data Science student at UFMS.
+- 🌍 From Manaus, Brazil.
+- 🧑‍💻 Passionate about artificial intelligence, data science, and neuroscience.
+- 🎮 Gaming enthusiast, particularly in Overwatch.
 
-Here are some ideas to get you started:
+## Skills
+- 🖥 Programming: Python, R, C.
+- 📊 Data Visualization: ggplot2, Matplotlib, Seaborn.
+- 🤖 AI & ML: TensorFlow, Scikit-learn, Keras.
+- 🔧 Tools: Git, Jupyter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+## Social
+- [LinkedIn](https://www.linkedin.com/in/carlos-neto-417049234/)
+
+## GitHub Stats
+![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=aka1Neto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aka1Neto&layout=compact)
+
+
