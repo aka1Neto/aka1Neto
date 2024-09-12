@@ -1,10 +1,25 @@
-# 👋 I'm Neto:
-- 🎓 **Data Science student at UFMS**<br>
-- 🌍 **From Manaus, Brazil**<br>
-- 🧠 **Passionate about AI, data science, and neuroscience**<br>
-- 🎮 **Gaming enthusiast, particularly in Overwatch**<br>
-- ✍️ **Currently learning Japanese and French**<br>
-- 🎯 **Focused on building AI systems with strong capabilities**
+<table>
+  <tr>
+    <td>
+      <h1>👋 I'm Neto</h1>
+      <ul>
+        <li>🎓 <strong>Data Science student at UFMS</strong></li>
+        <li>🌍 <strong>From Manaus, Brazil</strong></li>
+        <li>🧠 <strong>Passionate about AI, data science, and neuroscience</strong></li>
+        <li>🎮 <strong>Gaming enthusiast, particularly in Overwatch</strong></li>
+        <li>✍️ <strong>Currently learning Japanese and French</strong></li>
+        <li>🎯 <strong>Focused on building AI systems with strong capabilities</strong></li>
+      </ul>
+    </td>
+
+  <td>
+    <h2>🎧 Listening On Spotify</h2>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=poh4epro8mu0q95q63zlny6tw&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=poh4epro8mu0q95q63zlny6tw&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=0a0a0a&bar_color_cover=true" alt="Spotify Now Playing" />
+      </a>
+  </td>
+  </tr>
+</table>
 
 ---
 
