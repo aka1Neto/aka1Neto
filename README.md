@@ -1,6 +1,12 @@
-# About Me:
-- 🎓 Data Science student at UFMS.<br>- 🌍 From Manaus, Brazil.<br>- 🧑‍💻 Passionate about artificial intelligence, data science, and neuroscience.<br>- 🎮 Gaming enthusiast, particularly in Overwatch.
+# 👋 I'm Neto:
+- 🎓 **Data Science student at UFMS**<br>
+- 🌍 **From Manaus, Brazil**<br>
+- 🧠 **Passionate about AI, data science, and neuroscience**<br>
+- 🎮 **Gaming enthusiast, particularly in Overwatch**<br>
+- ✍️ **Currently learning Japanese and French**<br>
+- 🎯 **Focused on building AI systems with strong capabilities**
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-neto-417049234/)
@@ -22,10 +28,14 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aka1Neto&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aka1Neto&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aka1Neto&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aka1Neto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aka1Neto&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aka1Neto&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka1Neto&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages" />
+</p>
